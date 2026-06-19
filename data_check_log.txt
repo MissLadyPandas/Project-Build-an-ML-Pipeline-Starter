@@ -1,0 +1,4 @@
+2026/06/19 00:23:43 INFO mlflow.utils.conda: Conda environment mlflow-080722a215674bdadc730afd89129421fad79d98 already exists.
+2026/06/19 00:23:43 INFO mlflow.projects.utils: === Created directory /tmp/tmprgabglpa for downloading remote URIs passed to arguments of type 'path' ===
+2026/06/19 00:23:43 INFO mlflow.projects.backend.local: === Running command 'source /home/kbrumback/miniconda3/bin/../etc/profile.d/conda.sh && conda activate mlflow-080722a215674bdadc730afd89129421fad79d98 1>&2 && python main.py main.steps=\'data_check\' $(echo '')' in run with ID '97775547e10c4bae8b3891c492092e25' === 
+2026/06/19 00:23:46 INFO mlflow.projects: === Run (ID '97775547e10c4bae8b3891c492092e25') succeeded ===
